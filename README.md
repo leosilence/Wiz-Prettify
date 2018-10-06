@@ -11,7 +11,7 @@
 
 ## Preview
 
-![](pics/1.gif)
+![](pics/1.png)
 
 ##  Feature
 
